@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%2011-Working-ok" alt="Working on Windows 11"/>
-  <img src="https://img.shields.io/badge/Linux_based-Compatible_but_not_tested-lightgrey" alt="Compatible but not tested on Linux-based systems"/>
-  <img src="https://img.shields.io/badge/Windows%2010-Compatible_but_not_tested-lightgrey" alt="Compatible but not tested on Windows 10"/>
 </p>
 
 This repository contains the code and data for the **Privacy Enhancement for Text via Risk-oriented Explainability** (PETRE) method presented in [B. Manzanares-Salor, D. Sánchez, Enhancing text anonymization via re-identification risk-based explainability, Knowledge-Based Systems, 2025](https://doi.org/10.1016/j.knosys.2024.112945).
