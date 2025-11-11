@@ -7,6 +7,20 @@
 </p>
 
 This repository contains the code and data for the **Privacy Enhancement for Text via Risk-oriented Explainability** (PETRE) method presented in [B. Manzanares-Salor, D. Sánchez, Enhancing text anonymization via re-identification risk-based explainability, Knowledge-Based Systems, 2025](https://doi.org/10.1016/j.knosys.2024.112945).
+```bibtex
+@article{manzanaressalor-etal-petre-2025,
+  title = {Enhancing text anonymization via re-identification risk-based explainability},
+  journal = {Knowledge-Based Systems},
+  volume = {310},
+  pages = {112945},
+  year = {2025},
+  issn = {0950-7051},
+  doi = {10.1016/j.knosys.2024.112945},
+  url = {https://doi.org/10.1016/j.knosys.2024.112945},
+  author = {Benet Manzanares-Salor and David S\'anchez},
+  keywords = {Privacy protection, Neural language models, Explainability, Text anonymization, Re-identification}
+}
+```
 
 Experimental data was extracted from the [bootstrapping-anonymization](https://github.com/anthipapa/bootstrapping-anonymization) repository, corresponding to the publication [A. Papadopoulou, P. Lison, L. Øvrelid, I. Pilán, Bootstrapping Text Anonymization Models with Distant Supervision, Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 4477–4487, Marseille, France, 2022](https://aclanthology.org/2022.lrec-1.476/) and the [text-anonymization-benchmark](https://github.com/NorskRegnesentral/text-anonymization-benchmark) repository, corresponding to the publication [I. Pilán, P. Lison, L. Øvrelid, A. Papadopoulou, D. Sánchez, M. Batet, The Text Anonymization Benchmark (TAB): A Dedicated Corpus and Evaluation Framework for Text Anonymization, Computational Linguistics, 48 (4), pages 1053–1101, 2022](https://doi.org/10.1162/coli_a_00458). The exact data files utilized in the experiments are located in the [data](data) folder.
 
